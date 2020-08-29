@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**hsmade/hsmade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In this account, you can find my personal repositories and forks. I like to build apps that simplify my life or to implement parts of my hobbies. For this I tend to use:
+- Golang
+- Python
+- React
+- Docker
 
-Here are some ideas to get you started:
+Issues and PRs are always welcome!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- :office: Currently employed as Senior DevOps engineer by the eBay classifieds group, where I mainly work for the Marktplaats product.
+- :man: :girl: :woman: Both a husband and father (2011)
+- :house: Living in Houten, the Netherlands
+- :radio: Licensed HAM radio amateur
+- 💬 Ask me about living with autism
+- 📫 How to reach me: github @ fournier.nl
