@@ -10,6 +10,7 @@ Issues and PRs are always welcome!
 
 ### About me
 - :office: Currently employed as Senior DevOps engineer by the eBay classifieds group, where I mainly work for the Marktplaats product.
+- :zap: In my spare time, I like to tinker with hard and sofware, preferably both 😄
 - :man: :girl: :woman: Both a husband and father (2011)
 - :house: Living in Houten, the Netherlands
 - :radio: Licensed HAM radio amateur
